@@ -10,5 +10,7 @@
 </p>
 
 
-<animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="" data-target="animated-image.originalLink"><img alt="Awesome GitHub Profile Readme" src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/raw/master/assets/agpr.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-
+<animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href=""
+     data-target="animated-image.originalLink"><img alt="Awesome GitHub Profile Readme" 
+     src="https://user-images.githubusercontent.com/4361134/33792358-6e3bbc52-dce0-11e7-8c74-a5701a431391.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+ 
