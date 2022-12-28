@@ -17,6 +17,6 @@
           <img data-target="animated-image.replacedImage" alt="Awesome GitHub Profile Readme" class="AnimatedImagePlayer-animatedImage" src="" style="display: block; opacity: 1;">
         <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="830" height="476"></canvas></span>
       </a>
-      <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Awesome GitHub Profile Readme"></button>
+
  
 
