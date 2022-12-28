@@ -19,4 +19,4 @@
       </a>
       <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Awesome GitHub Profile Readme"></button>
  
-    </span></animated-image>
+
