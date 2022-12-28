@@ -9,8 +9,4 @@
        <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"><img alt="java" width="40px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" style="max-width: 100%;"></a></code>
        <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/a883ae7c57b7811901a7bf31e72725eed41262a9/assets/agpr.gif"><img alt="java" width="40px" src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/a883ae7c57b7811901a7bf31e72725eed41262a9/assets/agpr.gif" style="max-width: 100%;"></a></code>
       
-       <br><br>
-    
-    </p>
-    
- 
+
