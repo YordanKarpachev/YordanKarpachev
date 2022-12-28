@@ -2,5 +2,5 @@ Technologies:
 java html css sass javascript  nodejs express mysql git github 
 
 
-[icons/javascript/javascript-original.svg
-](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg)
+![github-original](https://user-images.githubusercontent.com/97124750/209740463-4522a11a-5f20-4fee-b424-f8e939b8a678.svg)
+
