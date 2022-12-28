@@ -11,12 +11,4 @@
 
 
 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="" data-target="animated-image.originalLink"><img alt="Awesome GitHub Profile Readme" src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/raw/master/assets/agpr.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-    <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-      <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="" target="_blank">
-        <span data-target="animated-image.imageContainer">
-          <img data-target="animated-image.replacedImage" alt="Awesome GitHub Profile Readme" class="AnimatedImagePlayer-animatedImage" src="" style="display: block; opacity: 1;">
-        <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="830" height="476"></canvas></span>
-      </a>
-
- 
 
