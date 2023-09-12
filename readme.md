@@ -9,5 +9,6 @@
        <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"><img alt="java" width="40px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" style="max-width: 100%;"></a></code> 
          <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"><img alt="java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="max-width: 100%;"></a></code> 
             <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"><img alt="java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" style="max-width: 100%;"></a></code> 
+             <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"><img alt="java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" style="max-width: 100%;"></a></code> 
             
 
